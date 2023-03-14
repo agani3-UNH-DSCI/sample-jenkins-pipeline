@@ -2,5 +2,4 @@ flask
 colorama
 validate_email
 bcrypt
-pymongo[srv]
 pytz

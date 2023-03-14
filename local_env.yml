@@ -1,0 +1,7 @@
+name: admissions
+channels:
+  - defaults
+  - anaconda
+dependencies:
+  - python=3.10.9
+  - flask=2.2.2

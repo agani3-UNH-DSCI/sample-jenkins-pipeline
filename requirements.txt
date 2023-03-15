@@ -1,4 +1,2 @@
-flask
-colorama
-validate_email
+flask==2.2.2
 pytz

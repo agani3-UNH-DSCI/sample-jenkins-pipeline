@@ -1,5 +1,4 @@
 flask
 colorama
 validate_email
-bcrypt
 pytz

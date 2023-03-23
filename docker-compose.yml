@@ -1,6 +1,6 @@
-web:
+services:
+  web:
    build: .
    container_name: app
    ports:
     - "5000:5000"
-   

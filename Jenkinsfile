@@ -1,4 +1,3 @@
-cat jenkins-docker-example/Jenkinsfile 
 node {
   stage 'Checkout'
   git url: 'https://github.com/agani3-UNH-DSCI/sample-jenkins-pipeline.git'
